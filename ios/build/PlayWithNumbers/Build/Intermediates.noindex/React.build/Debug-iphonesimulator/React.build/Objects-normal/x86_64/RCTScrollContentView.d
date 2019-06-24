@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTView.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/ios/build/PlayWithNumbers/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/ios/build/PlayWithNumbers/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

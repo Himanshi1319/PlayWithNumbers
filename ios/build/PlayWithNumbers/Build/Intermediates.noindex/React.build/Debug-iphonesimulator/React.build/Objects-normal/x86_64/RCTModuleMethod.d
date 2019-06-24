@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/ios/build/PlayWithNumbers/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/ios/build/PlayWithNumbers/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/ios/build/PlayWithNumbers/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/ios/build/PlayWithNumbers/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/himanshiagarwal/Desktop/PlayWithNumbers/node_modules/react-native/React/Profiler/RCTProfile.h
